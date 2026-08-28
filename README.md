@@ -169,7 +169,7 @@ stats → 404 on unknown code → duplicate URL reuse) during development.
 For a production version, `pytest` + `httpx`/`TestClient` with a test
 database would be the natural next step.
 
-## Possible Extensions (not implemented, out of scope for this assessment)
+## Possible Extensions 
 
 - Custom/user-chosen short codes
 - URL expiration (TTL)
